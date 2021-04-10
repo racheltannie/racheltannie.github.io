@@ -3,7 +3,7 @@ body {
   color: rgb(47, 79, 79);
   margin: 0;
   /* The background image used. Source https://unsplash.com/photos/2s3fI3M1lO0*/
-  background: url(https://github.com/racheltannie/racheltannie.github.io/blob/693f92174ade700dc56f7a2bfcd723ef294e778c/images/background.jpg);
+  background: url(/images/background.jpg);
   /* Full height*/
   height: 100%;
   /* Center and scale the image nicely */
