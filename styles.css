@@ -2,8 +2,8 @@ body {
   text-align: center;
   color: rgb(47, 79, 79);
   margin: 0;
-  /* The image used */
-  background: url(background.jpg);
+  /* The background image used. Source https://unsplash.com/photos/2s3fI3M1lO0*/
+  background: url(\images\background.jpg);
   /* Full height*/
   height: 100%;
   /* Center and scale the image nicely */
